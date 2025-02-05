@@ -26,11 +26,11 @@
   - Gjøre ferdig quiz designer & Quiz list
 
 ## Dag 4: Gjennomføring av faglig arbeid 
-  - Gjør ferdig all core funksjonalitet
+  - Gjør ferdig absolutt all funksjonalitet som er påbudt for å bestå
     
 ## Dag 5: Gjennomføring av faglig arbeid 
   - Jobbe med div features som keyboard navigering, timer, poeng
-  - Finpusse design
+  - Finpusse design og gå gjennom universell utforming
 
 ## Dag 6: Dokumentasjon / øving 
   - Jobbe med å fullføre dokumentasjon
