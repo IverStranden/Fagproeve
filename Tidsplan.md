@@ -1,8 +1,7 @@
 # Tidsplan - Fagprøve
 
-## All dokumentasjon vil bli gjennomført samtidig som arbeidet blir utført
+## All dokumentasjon / loggføring vil bli gjennomført samtidig som arbeidet blir utført
   - Forsøk på loggføring / oppsummering hver 1.5 time med arbeid
-
 
 ## Dag 1: Planlegging / Start på gjennomføring
   - Planlegging av Datamodell
@@ -15,9 +14,23 @@
   - Lage datamodell i SQL og lage en veldig basic versjon for testing av konsept
     
 ## Dag 2: Gjennomføring av faglig arbeid 
-  - Opprette basic app funksjonalitet
+  - Lage / fortsette på quiz hoved funksjonalitet
   - Følge plan for utvikling
-  - Lage sikkerhet / opprette sikkerhets standard som skal bli følgt gjennom prøven
+  - Lage sikkerhet og standarder som skal bli følgt gjennom oppgaven
+    
+## Dag 3: Gjennomføring av faglig arbeid 
+  - Gjøre ferdig quiz svar funksjonalitet
+  - Begynne på quiz list skjermbilde
+  - Begynne på quiz designer skjermbilde
+
+## Dag 3: Gjennomføring av faglig arbeid 
+  - Fortsettelse av quiz designer skjermbilde
+
+## Dag 4: Gjennomføring av faglig arbeid 
+  - Fortsettelse av quiz designer skjermbilde
+    
+## Dag 5: Gjennomføring av faglig arbeid 
+  - Design
 
 
 # Basic Scope
