@@ -27,10 +27,23 @@
   - Fortsettelse av quiz designer skjermbilde
 
 ## Dag 4: Gjennomføring av faglig arbeid 
-  - Fortsettelse av quiz designer skjermbilde
+  - Gjøre ferdig quiz designer & Quiz list
     
 ## Dag 5: Gjennomføring av faglig arbeid 
-  - Design
+  - Jobbe med div features som keyboard navigering, timer, poeng
+
+## Dag 6: Dokumentasjon / øving 
+  - Jobbe med å fullføre dokumentasjon
+  - Fikse kunnskaps hull
+
+## Dag 7: Dokumentasjon / øving  
+  - Jobbe med å fullføre dokumentasjon
+  - Fikse kunnskaps hull
+
+### Kostnad Estimat:
+  - Timer: 47.5h
+  - TimeLønn: 150,-
+  - Total kostnad: 7125,-
 
 
 # Basic Scope
