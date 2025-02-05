@@ -1,5 +1,3 @@
-## Planlegging
-
 ### Lage datamodell
 Lager datamodell og bruker både DrawSQL og Figma for å visualisere datamodell og skjermbilder.
 
