@@ -9,10 +9,10 @@ Her er noen av funksjonene som jeg tar mest i bruk:
 Lar meg søke etter kode som allerede har blitt brukt, gjør det enklere å finne gode standarder, og å finne tilbake til kode som man har lagd tidligere.
 ### DB manager: 
 Lar meg opprette, oppdatere og slette data objekter og data i SQL.
-### Data objekter: 
-Gjør det mulig å kommunisere med SQL fra appene.
 ### Trace:
 Lar meg spore SQL aktiviteten min, gjør debugging mye lettere.
+### Data objekter: 
+Gjør det mulig å kommunisere med SQL fra appene.
 
 ## Vue JS
 Vue js er standard i Omega365 (CTP) og er ett javascript-rammeverk som forenkler frontend utviklingen.
