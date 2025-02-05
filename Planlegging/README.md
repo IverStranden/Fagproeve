@@ -1,3 +1,6 @@
+# Målet med oppgaven:
+Målet med oppgaven er å utvikle en quiz-app der brukere kan besvare spørsmål, få umiddelbar tilbakemelding og se sin poengsum. Applikasjonen skal også ha funksjonalitet for å starte quizen på nytt. Svarene må lagres på en server og leveres til frontend via et sikret API.
+
 ## Funksjonalitet og Krav:
 
 ### Applikasjonskomponenter
