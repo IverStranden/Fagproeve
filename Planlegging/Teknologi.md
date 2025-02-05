@@ -2,8 +2,9 @@
 Jeg har valgt en rekke teknologier som jeg tror kommer til å være nødvendige for at jeg skal kunne lage best mulig løsning
 
 ## Omega365 CTP (Appframe)
-Jeg velger å benytte meg for Appframe siden det er rammeverket som jeg har brukt mest, og det gjør det veldig mye lettere og raskere å utvikle løsningner, og har mange innebygde features som jeg får bruk for. 
-Appframe har mange features som jeg ta i bruk:
+Jeg velger å benytte meg for Appframe siden det er rammeverket som jeg har brukt mest, og det gjør det veldig enkelt og raskt å utvikle løsningner, og har mange innebygde funksjoner som sparer meg mye tid. 
+
+Her er noen av funksjonene som jeg tar mest i bruk:
 ### Code Search: 
 Lar meg søke etter kode som allerede har blitt brukt, gjør det enklere å finne gode standarder, og å finne tilbake til kode som man har lagd tidligere.
 ### DB manager: 
