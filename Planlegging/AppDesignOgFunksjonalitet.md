@@ -1,6 +1,4 @@
 # App 1: Hoved Quiz App
-
-## Svar Alternativer
   - Støtte for forskjellige typer svar
   - Timer
   - Støtte for flere svar
