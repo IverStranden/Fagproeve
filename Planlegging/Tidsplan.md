@@ -1,5 +1,3 @@
-# Tidsplan - Fagprøve
-
 ### All dokumentasjon / loggføring vil bli gjennomført samtidig som arbeidet blir utført
   - Forsøk på loggføring / oppsummering hver 1.5 time med arbeid
   - Loggføring vil også skje under andre tidspunk dersom det er nødvendig
