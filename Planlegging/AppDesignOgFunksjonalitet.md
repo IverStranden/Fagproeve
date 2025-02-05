@@ -1,6 +1,6 @@
 # App 1: Hoved Quiz App
   - Støtte for forskjellige typer svar
-  - Timer
+  - Støtte for en timer funksjon i tilfelle spørsmålet er basert på tid 
   - Støtte for flere svar
   - Støtte for bilder
 
