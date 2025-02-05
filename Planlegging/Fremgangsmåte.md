@@ -1,14 +1,14 @@
-### Lage datamodell
-Utvikle en datamodell ved bruk av både DrawSQL og Figma for å visualisere datamodellen og skjermbildene.
+### Utvikling av datamodell
+Design og visualisering av datamodellen ved hjelp av DrawSQL og Figma, inkludert skjermbilder.
 
-### Lage tabeller og skjermbilder
-Lage tabeller og relevante views, oppretter roller, moduler og sikkerhet.
+### Opprettelse av tabeller og skjermbilder
+Definere databasen med nødvendige tabeller og views, opprette roller, moduler og sikkerhet.
 
 ### Gjennomføring og Testing
-Oppretting av skjermbilder og fokus på implemintere alle nødvendige funksjoner for å lage en fungerende app. Legge til støtte for bruker testing etter det er klart for å teste løsningen.
+Utvikling av skjermbilder og implementering av alle nødvendige funksjoner som er nødvendige for applikasjonen. Legge til støtte for brukertesting for å sikre kvalitet.
 
 ### Bonus Funsjonalitet & Gjennomgang av punkter
-Går gjennom alle punkter for å se om det finnes noen hull, og legger til bonus funskjonalitet om det trengs.
+Går gjennom alle vurderingskriterier for å se om det finnes noen hull, og legger til bonus funskjonalitet om det trengs.
 
 ### Brukeranvisning
 Lager brukeranvisning for å dokumentere hvordan man bruker løsningen.
