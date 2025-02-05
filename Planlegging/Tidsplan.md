@@ -7,7 +7,7 @@
 ## Dag 1: Planlegging / Start på gjennomføring
   - Planlegging av Datamodell
   - Skisse i Figma
-  - Diverse møter med prøvenevnde for å innta nødvendig informasjon
+  - Møte med prøvenevnde for å innta nødvendig informasjon
   - Utvikle en tidsplan
   - Dokumentere målet med oppgaven
   - lage kostnadsoversalg
