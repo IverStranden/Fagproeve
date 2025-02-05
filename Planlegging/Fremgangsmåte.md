@@ -12,8 +12,8 @@ Oppretter skjermbilder og fokuserer på alle funksjoner som er nødvendige for �
 ### Bonus Funsjonalitet & Gjennomgang av punkter
 Går gjennom alle punkter for å se om det finnes noen hull, og legger til bonus funskjonalitet om det trengs.
 
-## Brukeranvisning
+### Brukeranvisning
 Lager brukeranvisning for å dokumentere hvordan man bruker løsningen.
 
-## Presentasjon
+### Presentasjon
 Lager og forbreder meg til presentasjon.
