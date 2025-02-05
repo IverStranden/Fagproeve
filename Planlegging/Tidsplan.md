@@ -27,10 +27,12 @@
 
 ## Dag 4: Gjennomføring av faglig arbeid 
   - Gjør ferdig absolutt all funksjonalitet som er påbudt for å bestå
+  - Jobbe med div features som keyboard navigering, timer, poeng
     
 ## Dag 5: Gjennomføring av faglig arbeid 
   - Jobbe med div features som keyboard navigering, timer, poeng
   - Finpusse design og gå gjennom universell utforming
+  - Jobbe med å fullføre dokumentasjon
 
 ## Dag 6: Dokumentasjon / øving 
   - Jobbe med å fullføre dokumentasjon
@@ -39,6 +41,16 @@
 
 ## Dag 7: Presentasjon
   - Presentasjon og egenvurdering
+
+### Time estimering
+  - Planlegging ~6.5t
+  - Quiz Hoved App ~8t
+  - Quiz List App ~8t
+  - Quiz Designer App ~12t
+  - Dokumentering ~10t
+  - Sikkerhet ~5t
+  - Presentasjon Forbredelser ~4t
+  - Gjennomgang og fiksing / implimentering av vurderingskriterier ~6t 
 
 ### Kostnad Estimat:
   - Timer: 47.5h
