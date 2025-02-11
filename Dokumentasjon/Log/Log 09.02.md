@@ -13,3 +13,8 @@
 
 ### Triggers
   -  La til skikkelige trigger sjekker
+
+### Nye Data Objekter
+  -  aviw_IverFagproeve_Quiz_OptionsWithCorrect
+  -  aviw_IverFagproeve_Quiz_Leaderboard
+
