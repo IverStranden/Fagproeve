@@ -476,6 +476,7 @@ Igjen er det ganske enkel sikkerhet i atbvene, alle atbvene kjører en sjekk mot
 </summary>
   
   -  Ville ha flere svaralternativer og har lagd støtte for det, men fikk ikke tid til å gjøre det ferdig.
+  -  La til Quiz files tabell
 
 </details>
 
