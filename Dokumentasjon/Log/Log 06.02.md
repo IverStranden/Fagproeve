@@ -9,3 +9,7 @@
 
 ### Views
   -  Atbv sikkerhet lagd til
+
+### Nye Data Objekter
+  -  aviw_IverFagproeve_Quizzes
+  -  aviw_IverFagproeve_OptionsWithCorrect
