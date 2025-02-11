@@ -8,6 +8,8 @@
 ### Quiz Overview App
   -  High contrast mode lagd
   -  Fikset grid scaling
+  -  Delete quiz og edit quiz knapper lagd
+  -  Oppdatert leaderboard view
 
 ### Quiz Creator App
   -  High contrast mode lagd
