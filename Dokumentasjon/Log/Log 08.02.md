@@ -9,3 +9,6 @@
     
 ### Quiz App
   -  Quiz bilde support styling fiks
+
+### Nye Data Objekter
+  -  aviw_IverFagproeve_Quizzes_WithAverage
