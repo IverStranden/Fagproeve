@@ -421,7 +421,7 @@ Igjen er det ganske enkel sikkerhet i atbvene, alle atbvene kjører en sjekk mot
   <h2>Grensesnittbeskrivelse</h2>
 </summary>
   
-   - Beskrivelse på hvordan appen brukes: [Brukerveiledning](https://github.com/IverStranden/temp/blob/main/brukerGuide.md)
+   - Beskrivelse på hvordan appen brukes: [Brukerveiledning](https://github.com/IverStranden/Fagproeve/blob/main/Dokumentasjon/BrukerVeiledning.md)
      
 ### Quiz-systemet består av tre apper:
   -  Quiz App – Brukes til å gjennomføre quizer.
