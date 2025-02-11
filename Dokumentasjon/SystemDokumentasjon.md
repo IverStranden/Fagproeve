@@ -32,7 +32,7 @@
         <summary>
           <h4>Tabeller</h4>:
         </summary>      
-          <img src="https://github.com/user-attachments/assets/bac7d376-29b9-4933-84a7-12fe84c025fc" />
+          <img src="https://github.com/user-attachments/assets/eadc1447-dcfb-4939-a9f4-57ef4bc5bc71" />
       </details>
     </li>
     <li>
